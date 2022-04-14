@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "587974193204",
+    "project_id": "crudoperationgetx",
+    "storage_bucket": "crudoperationgetx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587974193204:android:5f66b2953c74b2f6145a61",
+        "android_client_info": {
+          "package_name": "com.example.getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587974193204-29jcf0s7r5svd3q56eme4vr5dlsa5cur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.getx",
+            "certificate_hash": "44982be8dbff33469e112c765a9f305d0cd57c91"
+          }
+        },
+        {
+          "client_id": "587974193204-6tikpal320uviqv9cqm8rm0oadkef2bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5qpn-LU0HBd_gMwK731nH_dPwoEWf_o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587974193204-6tikpal320uviqv9cqm8rm0oadkef2bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
